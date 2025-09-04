@@ -17,6 +17,9 @@
     "slug": {
       "type": "uid"
     },
+    "description": {
+      "type": "text"
+    },
     "category": {
       "type": "relation",
       "relation": "oneToOne",
